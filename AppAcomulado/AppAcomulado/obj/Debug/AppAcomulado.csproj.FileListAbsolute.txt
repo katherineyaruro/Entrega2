@@ -1,0 +1,6 @@
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppAcomulado\AppAcomulado\bin\Debug\AppAcomulado.exe.config
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppAcomulado\AppAcomulado\bin\Debug\AppAcomulado.exe
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppAcomulado\AppAcomulado\bin\Debug\AppAcomulado.pdb
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppAcomulado\AppAcomulado\obj\Debug\AppAcomulado.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppAcomulado\AppAcomulado\obj\Debug\AppAcomulado.exe
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppAcomulado\AppAcomulado\obj\Debug\AppAcomulado.pdb
